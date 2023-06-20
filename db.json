@@ -1,0 +1,27 @@
+[
+        {
+            "feature_id": 1,
+            "features": "Dashboard",
+            "status_id": 1
+        },
+        {
+            "feature_id": 2,
+            "features": "Produk",
+            "status_id": 1
+        },
+        {
+            "feature_id": 3,
+            "features": "Laporan",
+            "status_id": 1
+        },
+        {
+            "feature_id": 4,
+            "features": "Kotak Masuk",
+            "status_id": 1
+        },
+        {
+            "feature_id": 5,
+            "features": "Partner Manajemen",
+            "status_id": 1
+        }
+    ]
